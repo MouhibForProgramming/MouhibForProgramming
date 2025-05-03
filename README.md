@@ -12,7 +12,8 @@ i love to build website and many projects.I love coding
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [my website](http://shows-skills.onrender.com/?fbclid=IwAR1cYR3sZsuX6SIcVgal6IIrGpXpyT9P2AKbC3aiglzOtEG9G3btH1JU78A)
 * ✉️  You can contact me at [mouhibvalo12@gmail.com](mailto:mouhibvalo12@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python with Ai
+  
 
 ### Skills
 
